@@ -21,7 +21,7 @@ GoodNotes is a full-stack Notes Application built using the **MERN stack (MongoD
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Screenshot](./assets/login.jpg)
+![Login Screenshot](https://github.com/Kanav92/notes_app/blob/main/Image%2019-07-25%20at%204.17%20PM.jpg?raw=true)
 
 ### 🏠 Dashboard (Notes View)
 ![Dashboard Screenshot](https://github.com/Kanav92/notes_app/blob/main/Image%2019-07-25%20at%204.17%20PM%20(1).jpg?raw=true)
