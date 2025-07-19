@@ -24,7 +24,8 @@ GoodNotes is a full-stack Notes Application built using the **MERN stack (MongoD
 ![Login Screenshot](./assets/login.jpg)
 
 ### 🏠 Dashboard (Notes View)
-![Dashboard Screenshot](./assets/dashboard.jpg)
+https://github.com/Kanav92/notes_app/blob/main/Image%2019-07-25%20at%204.17%20PM%20(1).jpg
+![Dashboard Screenshot]( )
 
 > To include these screenshots, place your images in a folder called `assets` inside your project root and rename them as `login.jpg` and `dashboard.jpg`.
 
