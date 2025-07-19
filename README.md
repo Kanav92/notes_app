@@ -47,7 +47,7 @@ goodnotes/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/goodnotes.git
+git clone https://github.com/Kanav92/notes_app.git
 cd goodnotes
 ```
 
